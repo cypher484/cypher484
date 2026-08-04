@@ -1,20 +1,19 @@
 
 <p align="center">
 <img
-src="https://readme-typing-svg.demolab.com/?font=Share%2BTech%2BMono&size=24&duration=3500&pause=900&color=00FF41&center=true&vCenter=true&width=1100&height=150&lines=cypher%40github%3A~%24+whoami%3BEmmanuel+Declan+%28Cypher%29+%7C+Cybersecurity+Student%3Bcypher%40github%3A~%24+focus%3BWeb+Application+Security+%7C+Network+Analysis+%7C+Penetration+Testing%3Bcypher%40github%3A~%24+mission%3BLearn.+Build.+Break.+Strengthen+Defense."
+src="https://readme-typing-svg.demolab.com/?font=Share%2BTech%2BMono&size=28&duration=3500&pause=900&color=00FF41&center=true&vCenter=true&width=1100&height=150&lines=cypher%40github%3A~%24+whoami%3BEmmanuel+Declan+%28Cypher%29+%7C+Cybersecurity+Student%3Bcypher%40github%3A~%24+focus%3BWeb+Application+Security+%7C+Network+Analysis+%7C+Penetration+Testing%3Bcypher%40github%3A~%24+mission%3BLearn.+Build.+Break.+Strengthen+Defense."
 alt="cypher484 animated terminal"
 />
 </p>
 
-# Hi, I'm Emmanuel 👋
+---
 
 ## `$ whoami`
 
-I'm Emmanuel, a cybersecurity student documenting my journey into offensive security.
+I'm <b>Emmanuel Declan (Cypher)</b>, a cybersecurity student building practical skills in offensive security. I'm currently focused on Linux, <b>networking</b>, <b>web application security</b>, <b>penetration testing</b>, <b>Python</b> and <b> security reporting</b>. I learn by building, breaking, experimenting, and documenting what I discover along the way.
+My target role: <b>Junior Pentester / SOC Analyst / Security Analyst</b>.
 
-I'm currently focused on Linux, networking, web application security, penetration testing, and Python.
-
-I learn by building, breaking, experimenting, and documenting what I discover along the way.
+---
 
 ## `$ cat /etc/current-focus`
 
@@ -25,6 +24,7 @@ I learn by building, breaking, experimenting, and documenting what I discover al
 - 🧪 Penetration testing
 - 📝 Technical documentation
 
+---
 
 ## `$ ls ~/projects`
 
@@ -37,6 +37,7 @@ I'm building a collection of hands-on projects, security labs, notes, and write-
 | `web-security` | Web application security notes and labs | 🟡 Learning |
 | `python-for-cybersecurity` | Python exercises and security-focused scripts | 🟡 Learning |
 
+---
 
 ## `$ cat /etc/learning-log`
 
@@ -55,6 +56,7 @@ I'm building a collection of hands-on projects, security labs, notes, and write-
 
 - 🌱 **Git & GitHub** — Learning version control, branching, collaboration, and professional repository management.
 
+---
 
 ## `$ which tools`
 
@@ -82,6 +84,7 @@ I'm building a collection of hands-on projects, security labs, notes, and write-
 
 `Hack The Box` · `TryHackMe` · `PortSwigger`
 
+---
 
 ## `$ find ~/ -name "writeups"`
 
@@ -122,9 +125,9 @@ I'm documenting my hands-on security work as I learn.
 
 > Writeups will be added as I complete and document each challenge.
 
+---
 
-
-## `$ ping -c 3 ~/social`
+## `$ ping -c 2 ~/social`
 
 I'm always interested in connecting with people who are learning, building, and working in cybersecurity.
 
